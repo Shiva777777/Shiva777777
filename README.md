@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on: End-to-End DevOps Projects and Cloud Deployments.<br><br>👯 I’m looking to collaborate on: Open Source DevOps & Python Projects.<br><br>🤝 I’m looking for help with: Kubernetes, Terraform and Cloud Architecture.<br><br>🌱 I’m currently learning: Kubernetes, Terraform, GitHub Actions and AWS.<br><br>💬 Ask me about: Docker, Linux, Jenkins, AWS, Python, FastAPI and Django.<br><br>⚡ Fun fact: I believe automation saves time, reduces errors and makes engineers happier.
 
-
+[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shiva7777777&theme=github-dark)](https://github.com/Shiva7777777)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-rajak-399a13374?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Om Rajak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajakom727@gmail.com) 
 
